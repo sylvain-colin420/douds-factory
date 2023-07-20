@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sylvain-colin420.github.io/douds-factory/sitemap.xml
