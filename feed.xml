@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Doud&#x27;s Factory</title>
-    <link href="https://sylvain-colin420.github.io/douds-factory/feed.xml" rel="self" />
-    <link href="https://sylvain-colin420.github.io/douds-factory" />
+    <link href="https://douds-factory.fr/feed.xml" rel="self" />
+    <link href="https://douds-factory.fr" />
     <updated>2023-07-21T13:46:22+02:00</updated>
     <author>
         <name>Sylvain</name>
     </author>
-    <id>https://sylvain-colin420.github.io/douds-factory</id>
+    <id>https://douds-factory.fr</id>
 
     <entry>
         <title>Le Pointu</title>
         <author>
             <name>Sylvain</name>
         </author>
-        <link href="https://sylvain-colin420.github.io/douds-factory/le-bowie.html"/>
-        <id>https://sylvain-colin420.github.io/douds-factory/le-bowie.html</id>
-        <media:content url="https://sylvain-colin420.github.io/douds-factory/media/posts/6/IMG_9839-2.jpg" medium="image" />
+        <link href="https://douds-factory.fr/le-bowie.html"/>
+        <id>https://douds-factory.fr/le-bowie.html</id>
+        <media:content url="https://douds-factory.fr/media/posts/6/IMG_9839-2.jpg" medium="image" />
 
         <updated>2023-07-21T13:16:16+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sylvain-colin420.github.io/douds-factory/media/posts/6/IMG_9839-2.jpg" alt="" />
+                        <img src="https://douds-factory.fr/media/posts/6/IMG_9839-2.jpg" alt="" />
                     Trop tranchant ne coupe pas, trop pointu ne perce pas. Proverbe français&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://sylvain-colin420.github.io/douds-factory/media/posts/6/IMG_9839-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://douds-factory.fr/media/posts/6/IMG_9839-2.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="3">
-<figure class="gallery__item"><a href="https://sylvain-colin420.github.io/douds-factory/media/posts/6/gallery/IMG_9835.jpg" data-size="5184x3456"><img loading="lazy" src="https://sylvain-colin420.github.io/douds-factory/media/posts/6/gallery/IMG_9835-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://sylvain-colin420.github.io/douds-factory/media/posts/6/gallery/IMG_9837.jpg" data-size="5184x3456"><img loading="lazy" src="https://sylvain-colin420.github.io/douds-factory/media/posts/6/gallery/IMG_9837-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://sylvain-colin420.github.io/douds-factory/media/posts/6/gallery/IMG_9839.jpg" data-size="5184x3456"><img loading="lazy" src="https://sylvain-colin420.github.io/douds-factory/media/posts/6/gallery/IMG_9839-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/6/gallery/IMG_9835.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/6/gallery/IMG_9835-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/6/gallery/IMG_9837.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/6/gallery/IMG_9837-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/6/gallery/IMG_9839.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/6/gallery/IMG_9839-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
 <hr>
 <blockquote>
@@ -43,7 +43,7 @@
 <p>Dimensions : 130mm fermé et 230mm ouvert</p>
 <p>Matériaux : lame et ressort acier XC75 (effet stonewash) - platines acier inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium</p>
 <p>Prix : <strong>220€</strong></p>
-<p>Pour toute commande ou demande particulière veuillez me <strong><a href="https://sylvain-colin420.github.io/douds-factory/contact.html">contacter</a></strong>.</p>
+<p>Pour toute commande ou demande particulière veuillez me <strong><a href="https://douds-factory.fr/contact.html">contacter</a></strong>.</p>
 <p> </p>
             ]]>
         </content>
@@ -53,20 +53,20 @@
         <author>
             <name>Sylvain</name>
         </author>
-        <link href="https://sylvain-colin420.github.io/douds-factory/contact.html"/>
-        <id>https://sylvain-colin420.github.io/douds-factory/contact.html</id>
-        <media:content url="https://sylvain-colin420.github.io/douds-factory/media/posts/5/page-contact-2.jpg" medium="image" />
+        <link href="https://douds-factory.fr/contact.html"/>
+        <id>https://douds-factory.fr/contact.html</id>
+        <media:content url="https://douds-factory.fr/media/posts/5/page-contact-2.jpg" medium="image" />
 
         <updated>2023-07-21T13:16:35+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sylvain-colin420.github.io/douds-factory/media/posts/5/page-contact-2.jpg" alt="" />
+                        <img src="https://douds-factory.fr/media/posts/5/page-contact-2.jpg" alt="" />
                     Email : douds.factory@gmail.com Portable : 0611515518 Atelier : 3E Chemin de Saint&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://sylvain-colin420.github.io/douds-factory/media/posts/5/page-contact-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://douds-factory.fr/media/posts/5/page-contact-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Email : <a href="mailto:douds.factory@gmail.com">douds.factory@gmail.com</a></p>
 <p>Portable : 0611515518</p>
 <p>Atelier : 3E Chemin de Saint Géniès - 34150 La Boissière - Mas d'Alhen</p>
@@ -79,24 +79,24 @@
         <author>
             <name>Sylvain</name>
         </author>
-        <link href="https://sylvain-colin420.github.io/douds-factory/le-gourmand.html"/>
-        <id>https://sylvain-colin420.github.io/douds-factory/le-gourmand.html</id>
-        <media:content url="https://sylvain-colin420.github.io/douds-factory/media/posts/4/IMG_9791.jpg" medium="image" />
+        <link href="https://douds-factory.fr/le-gourmand.html"/>
+        <id>https://douds-factory.fr/le-gourmand.html</id>
+        <media:content url="https://douds-factory.fr/media/posts/4/IMG_9791.jpg" medium="image" />
 
         <updated>2023-07-21T13:18:45+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sylvain-colin420.github.io/douds-factory/media/posts/4/IMG_9791.jpg" alt="" />
+                        <img src="https://douds-factory.fr/media/posts/4/IMG_9791.jpg" alt="" />
                     L'homme est comme une horloge. Il se remonte par la nourriture deux&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://sylvain-colin420.github.io/douds-factory/media/posts/4/IMG_9791.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://douds-factory.fr/media/posts/4/IMG_9791.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="3">
-<figure class="gallery__item"><a href="https://sylvain-colin420.github.io/douds-factory/media/posts/4/gallery/IMG_9781.jpg" data-size="5184x3456"><img loading="lazy" src="https://sylvain-colin420.github.io/douds-factory/media/posts/4/gallery/IMG_9781-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://sylvain-colin420.github.io/douds-factory/media/posts/4/gallery/IMG_9788.jpg" data-size="5184x3456"><img loading="lazy" src="https://sylvain-colin420.github.io/douds-factory/media/posts/4/gallery/IMG_9788-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://sylvain-colin420.github.io/douds-factory/media/posts/4/gallery/IMG_9791.jpg" data-size="5184x3456"><img loading="lazy" src="https://sylvain-colin420.github.io/douds-factory/media/posts/4/gallery/IMG_9791-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/4/gallery/IMG_9781.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/4/gallery/IMG_9781-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/4/gallery/IMG_9788.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/4/gallery/IMG_9788-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/4/gallery/IMG_9791.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/4/gallery/IMG_9791-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
 <hr>
 <blockquote>
@@ -111,7 +111,7 @@
 <p>Dimensions : 115mm fermé et 210mm ouvert</p>
 <p class="align-left">Matériaux : lame et ressort acier XC75 - mitres acier inox Z8C17 - platines laiton ou inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium<br><br></p>
 <p>Prix : <strong>180€</strong></p>
-<p>Pour toute commande ou demande particulière veuillez me <a href="https://sylvain-colin420.github.io/douds-factory/contact.html"><strong>contacter</strong></a>.</p>
+<p>Pour toute commande ou demande particulière veuillez me <a href="https://douds-factory.fr/contact.html"><strong>contacter</strong></a>.</p>
 <p> </p>
             ]]>
         </content>
@@ -121,24 +121,24 @@
         <author>
             <name>Sylvain</name>
         </author>
-        <link href="https://sylvain-colin420.github.io/douds-factory/samourai.html"/>
-        <id>https://sylvain-colin420.github.io/douds-factory/samourai.html</id>
-        <media:content url="https://sylvain-colin420.github.io/douds-factory/media/posts/3/ouvert.jpg" medium="image" />
+        <link href="https://douds-factory.fr/samourai.html"/>
+        <id>https://douds-factory.fr/samourai.html</id>
+        <media:content url="https://douds-factory.fr/media/posts/3/ouvert.jpg" medium="image" />
 
         <updated>2023-07-21T13:24:17+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sylvain-colin420.github.io/douds-factory/media/posts/3/ouvert.jpg" alt="" />
+                        <img src="https://douds-factory.fr/media/posts/3/ouvert.jpg" alt="" />
                     Le Samourai valeureux ne pense pas en terme de victoire ou de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://sylvain-colin420.github.io/douds-factory/media/posts/3/ouvert.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://douds-factory.fr/media/posts/3/ouvert.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="3">
-<figure class="gallery__item"><a href="https://sylvain-colin420.github.io/douds-factory/media/posts/3/gallery/ferme.jpg" data-size="3830x2554"><img loading="lazy" src="https://sylvain-colin420.github.io/douds-factory/media/posts/3/gallery/ferme-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://sylvain-colin420.github.io/douds-factory/media/posts/3/gallery/guillochage.jpg" data-size="3902x2601"><img loading="lazy" src="https://sylvain-colin420.github.io/douds-factory/media/posts/3/gallery/guillochage-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://sylvain-colin420.github.io/douds-factory/media/posts/3/gallery/ouvert.jpg" data-size="4719x3146"><img loading="lazy" src="https://sylvain-colin420.github.io/douds-factory/media/posts/3/gallery/ouvert-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/3/gallery/ferme.jpg" data-size="3830x2554"><img loading="lazy" src="https://douds-factory.fr/media/posts/3/gallery/ferme-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/3/gallery/guillochage.jpg" data-size="3902x2601"><img loading="lazy" src="https://douds-factory.fr/media/posts/3/gallery/guillochage-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/3/gallery/ouvert.jpg" data-size="4719x3146"><img loading="lazy" src="https://douds-factory.fr/media/posts/3/gallery/ouvert-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
 <hr>
 <blockquote>
@@ -159,20 +159,20 @@
         <author>
             <name>Sylvain</name>
         </author>
-        <link href="https://sylvain-colin420.github.io/douds-factory/douds-factory-2.html"/>
-        <id>https://sylvain-colin420.github.io/douds-factory/douds-factory-2.html</id>
-        <media:content url="https://sylvain-colin420.github.io/douds-factory/media/posts/2/presentation.jpg" medium="image" />
+        <link href="https://douds-factory.fr/douds-factory-2.html"/>
+        <id>https://douds-factory.fr/douds-factory-2.html</id>
+        <media:content url="https://douds-factory.fr/media/posts/2/presentation.jpg" medium="image" />
 
         <updated>2023-07-21T13:46:22+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sylvain-colin420.github.io/douds-factory/media/posts/2/presentation.jpg" alt="" />
+                        <img src="https://douds-factory.fr/media/posts/2/presentation.jpg" alt="" />
                     D'aussi loin que je m'en souvienne j'ai toujours été attiré par les&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://sylvain-colin420.github.io/douds-factory/media/posts/2/presentation.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://douds-factory.fr/media/posts/2/presentation.jpg" class="type:primaryImage" alt="" /></p>
                 <p>D'aussi loin que je m'en souvienne j'ai toujours été attiré par les couteaux. Ces objets aux lignes épurées, à la fois douces et agressives, m'ont toujours captivé. Je me rappelle déjà tout petit être obnibulé par les vitrines qui enfermaient diverses lames dans les ventas basques à la frontière espagnole. </p>
 <p>Après des études en Design, réalisées sur Nîmes et Bordeaux, j'ai eu l'opportunité d'effectuer un stage à l'école de forge <strong><a href="https://www.ecoledeforge.fr" target="_blank" rel="noopener noreferrer">Fer à Modeler</a> </strong>située à Méjannes-le-Clap (30) où j'ai pu aborder l'acier sous ses différentes formes. J'en suis parti avec les yeux qui pétillaient de mille feux et une forte envie de me lancer en coutellerie.</p>
 <p>Du temps est passé et j'ai acquis les compétences nécessaires à la fabrication d'un couteau, mais surtout de la confiance dans mes réalisations et en mon propre style.</p>
@@ -186,36 +186,36 @@
         <author>
             <name>Sylvain</name>
         </author>
-        <link href="https://sylvain-colin420.github.io/douds-factory/123.html"/>
-        <id>https://sylvain-colin420.github.io/douds-factory/123.html</id>
-        <media:content url="https://sylvain-colin420.github.io/douds-factory/media/posts/1/ouvert-2.jpg" medium="image" />
+        <link href="https://douds-factory.fr/123.html"/>
+        <id>https://douds-factory.fr/123.html</id>
+        <media:content url="https://douds-factory.fr/media/posts/1/ouvert-2.jpg" medium="image" />
 
         <updated>2023-07-21T13:27:03+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sylvain-colin420.github.io/douds-factory/media/posts/1/ouvert-2.jpg" alt="" />
+                        <img src="https://douds-factory.fr/media/posts/1/ouvert-2.jpg" alt="" />
                     Les chiffres : à force de les additionner, de les soustraire, de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://sylvain-colin420.github.io/douds-factory/media/posts/1/ouvert-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://douds-factory.fr/media/posts/1/ouvert-2.jpg" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://sylvain-colin420.github.io/douds-factory/media/posts/1/gallery/dos.jpg" data-size="5184x3456">
-        <img loading="lazy" src="https://sylvain-colin420.github.io/douds-factory/media/posts/1/gallery/dos-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://douds-factory.fr/media/posts/1/gallery/dos.jpg" data-size="5184x3456">
+        <img loading="lazy" src="https://douds-factory.fr/media/posts/1/gallery/dos-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://sylvain-colin420.github.io/douds-factory/media/posts/1/gallery/ferme.jpg" data-size="5184x3456">
-        <img loading="lazy" src="https://sylvain-colin420.github.io/douds-factory/media/posts/1/gallery/ferme-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://douds-factory.fr/media/posts/1/gallery/ferme.jpg" data-size="5184x3456">
+        <img loading="lazy" src="https://douds-factory.fr/media/posts/1/gallery/ferme-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://sylvain-colin420.github.io/douds-factory/media/posts/1/gallery/ouvert.jpg" data-size="5184x3456">
-        <img loading="lazy" src="https://sylvain-colin420.github.io/douds-factory/media/posts/1/gallery/ouvert-thumbnail.jpg" height="512" width="768" alt="" >
+      <a href="https://douds-factory.fr/media/posts/1/gallery/ouvert.jpg" data-size="5184x3456">
+        <img loading="lazy" src="https://douds-factory.fr/media/posts/1/gallery/ouvert-thumbnail.jpg" height="512" width="768" alt="" >
       </a>
       
     </figure>
@@ -252,7 +252,7 @@
   </p>
 
   <p>
-    Pour toute commande ou demande particulière veuillez me <a href="https://sylvain-colin420.github.io/douds-factory/contact.html"><strong>contacter</strong></a>.
+    Pour toute commande ou demande particulière veuillez me <a href="https://douds-factory.fr/contact.html"><strong>contacter</strong></a>.
   </p>
             ]]>
         </content>
