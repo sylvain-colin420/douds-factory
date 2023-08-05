@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://douds-factory.fr/pour-les-curieux.html",
+            "url": "https://douds-factory.fr/pour-les-curieux.html",
+            "title": "Pour les curieux",
+            "summary": "Cette page est dédiée aux plux curieux d'entre-vous, à ceux qui souhaitent&hellip;",
+            "content_html": "<p>Cette page est dédiée aux plux curieux d'entre-vous, à ceux qui souhaitent développer leurs connnaissances au sujet de la coutellerie. Et qui sait, peut-être qu'elle sera à l'origine de nouvelles vocations.</p>\n<h3>Sites :</h3>\n<p><a href=\"http://coustil.free.fr/home_fr.html\" target=\"_blank\" rel=\"noopener noreferrer\">Coustil</a> est un site en ligne géré par Gérard HEUTTE. Etant passionné par la forge et la coutellerie artisanale, le but de Gérard est de donner des informations techniques et pratiques afin de surmonter les obstacles que peuvent rencontrer les jeunes débutants. </p>\n<p><a href=\"http://fabriquersoncout.11vm-serv.net/index.htm\" target=\"_blank\" rel=\"noopener noreferrer\">Fabriquersoncouteau</a> a pour but de répondre aux questions que tout débutant va se poser avant et pendant la réalisation de son premier couteau : quels aciers utiliser, comment tremper, comment faire lorsque l'on n'est pas bien équipé, etc... ?</p>\n<h3>Chaines Youtube : </h3>\n<p><a href=\"https://www.youtube.com/@lamproknives\" title=\"Lampro Knives\" target=\"_blank\" rel=\"noopener noreferrer\">Lampro Knives</a> est un jeune coutelier, heureux de partager ses créations, trucs et astuces, ainsi que sa passion pour la coutellerie. </p>\n<p><a href=\"https://www.youtube.com/@maximaxoux\" target=\"_blank\" rel=\"noopener noreferrer\">Lanceur de l'Âme</a> est un forgeron passionné par le lancer de haches et couteaux. A travers sa chaine vidéoludique il explique les règles, gestes et techniques de cette discipline. </p>\n<p><a href=\"https://www.youtube.com/@andreaparavicini446\" target=\"_blank\" rel=\"noopener noreferrer\">Andrea Paravicini</a> est un jeune coutelier qui, depuis l'âge de ses 12 ans, s'intéresse à la forge des métaux. La passion de la coutellerie et de la lame lui est venue progressivement au fil des années. Après un CAP de ferronnerie d'art il a décidé de se consacrer à la coutellerie.</p>\n<p><a href=\"https://www.youtube.com/@CouteauxdArtisans\" title=\"Couteaux d'Artisans\" target=\"_blank\" rel=\"noopener noreferrer\">Couteaux d'Artisans</a> est une chaine Youtube animée par un passionné de la coutellerie. Elle présente les créations de divers artisans de manière détaillée : les matériaux employés, les finitions, la mécanique, etc...</p>",
+            "image": "https://douds-factory.fr/media/posts/7/34219577989e4dddadbd3fb0a7d5829b.jpeg",
+            "author": {
+                "name": "Sylvain"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-05T11:32:07+02:00",
+            "date_modified": "2023-08-05T15:16:15+02:00"
+        },
+        {
             "id": "https://douds-factory.fr/le-bowie.html",
             "url": "https://douds-factory.fr/le-bowie.html",
             "title": "Le Pointu",
