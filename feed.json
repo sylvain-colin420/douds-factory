@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://douds-factory.fr/le-123.html",
+            "url": "https://douds-factory.fr/le-123.html",
+            "title": "Le 123",
+            "summary": "Les chiffres : à force de les additionner, de les soustraire, de&hellip;",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Ajouter des images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://douds-factory.fr/media/posts/9/gallery/ouvert.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/9/gallery/ouvert-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://douds-factory.fr/media/posts/9/gallery/dos.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/9/gallery/dos-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://douds-factory.fr/media/posts/9/gallery/ferme.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/9/gallery/ferme-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/TG0dO7xCiIc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<blockquote>\n<p>Les chiffres : à force de les additionner, de les soustraire, de les multiplier et de les diviser, on peut leur faire dire absolument n'importe quoi.<br><br>Alain Rémond</p>\n</blockquote>\n<p>Le 123 est une déclinaison du modèle Le Pointu en pompe arrière. Ils partagent la même lame clip point, purement inspirée du Bowie.</p>\n<p>Pourquoi le 123 me direz-vous ? Observez bien ses rivets.</p>\n<p>Mécanique : pompe arrière</p>\n<p>Dimensions : 130mm fermé et 235mm ouvert</p>\n<p>Matériaux : lame et ressort acier XC75 (effet stonewash) - platines acier inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium</p>\n<p>Prix : <strong>280€</strong></p>\n<p>Pour toute commande ou demande particulière veuillez me <a href=\"https://douds-factory.fr/contact.html\"><strong>contacter</strong></a>.</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://douds-factory.fr/media/posts/9/ouvert.jpg",
+            "author": {
+                "name": "Sylvain"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-12T13:27:54+02:00",
+            "date_modified": "2023-08-12T13:34:53+02:00"
+        },
+        {
             "id": "https://douds-factory.fr/pour-les-curieux.html",
             "url": "https://douds-factory.fr/pour-les-curieux.html",
             "title": "Pour les curieux",
@@ -23,14 +38,14 @@
             "tags": [
             ],
             "date_published": "2023-08-05T11:32:07+02:00",
-            "date_modified": "2023-08-05T15:45:20+02:00"
+            "date_modified": "2023-08-05T15:47:10+02:00"
         },
         {
             "id": "https://douds-factory.fr/le-bowie.html",
             "url": "https://douds-factory.fr/le-bowie.html",
             "title": "Le Pointu",
             "summary": "Trop tranchant ne coupe pas, trop pointu ne perce pas. Proverbe français&hellip;",
-            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Ajouter des images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://douds-factory.fr/media/posts/6/gallery/IMG_9835.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/6/gallery/IMG_9835-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://douds-factory.fr/media/posts/6/gallery/IMG_9837.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/6/gallery/IMG_9837-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://douds-factory.fr/media/posts/6/gallery/IMG_9839.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/6/gallery/IMG_9839-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>\n<hr>\n<blockquote>\n<p>Trop tranchant ne coupe pas, trop pointu ne perce pas.</p>\n<p>Proverbe français</p>\n</blockquote>\n<p>Le Pointu m'a été très fortement inspiré par le célèbre Bowie. Ce couteau trouvant ses origines au début du moyen âge, était utilisé à la fois comme arme de combat et comme outil de tous les jours par les peuples germaniques, celtes et scandinaves. C'est le colonel James Bowie, pionnier et soldat américain ayant joué un grand rôle au XIX°s dans la révolution texane qui, par son utilisation intensive, l'élevera en tant que légende et le démocratisa.</p>\n<p>Mécanique : cran plat</p>\n<p>Dimensions : 130mm fermé et 230mm ouvert</p>\n<p>Matériaux : lame et ressort acier XC75 (effet stonewash) - platines acier inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium</p>\n<p>Prix : <strong>220€</strong></p>\n<p>Pour toute commande ou demande particulière veuillez me <strong><a href=\"https://douds-factory.fr/contact.html\">contacter</a></strong>.</p>\n<p> </p>",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Ajouter des images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://douds-factory.fr/media/posts/6/gallery/IMG_9835.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/6/gallery/IMG_9835-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://douds-factory.fr/media/posts/6/gallery/IMG_9837.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/6/gallery/IMG_9837-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://douds-factory.fr/media/posts/6/gallery/IMG_9839.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/6/gallery/IMG_9839-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/cmTOrYxI4PY\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<blockquote>\n<p>Trop tranchant ne coupe pas, trop pointu ne perce pas.</p>\n<p>Proverbe français</p>\n</blockquote>\n<p>Le Pointu m'a été très fortement inspiré par le célèbre Bowie. Ce couteau trouvant ses origines au début du moyen âge, était utilisé à la fois comme arme de combat et comme outil de tous les jours par les peuples germaniques, celtes et scandinaves. C'est le colonel James Bowie, pionnier et soldat américain ayant joué un grand rôle au XIX°s dans la révolution texane qui, par son utilisation intensive, l'élevera en tant que légende et le démocratisa.</p>\n<p>Mécanique : cran plat</p>\n<p>Dimensions : 130mm fermé et 230mm ouvert</p>\n<p>Matériaux : lame et ressort acier XC75 (effet stonewash) - platines acier inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium</p>\n<p>Prix : <strong>220€</strong></p>\n<p>Pour toute commande ou demande particulière veuillez me <strong><a href=\"https://douds-factory.fr/contact.html\">contacter</a></strong>.</p>\n<p> </p>",
             "image": "https://douds-factory.fr/media/posts/6/IMG_9839-2.jpg",
             "author": {
                 "name": "Sylvain"
@@ -38,7 +53,7 @@
             "tags": [
             ],
             "date_published": "2023-07-17T11:01:12+02:00",
-            "date_modified": "2023-07-27T13:36:42+02:00"
+            "date_modified": "2023-08-08T16:30:59+02:00"
         },
         {
             "id": "https://douds-factory.fr/contact.html",
@@ -99,21 +114,6 @@
             ],
             "date_published": "2023-07-16T19:05:40+02:00",
             "date_modified": "2023-07-27T13:37:29+02:00"
-        },
-        {
-            "id": "https://douds-factory.fr/123.html",
-            "url": "https://douds-factory.fr/123.html",
-            "title": "Le 123",
-            "summary": "Les chiffres : à force de les additionner, de les soustraire, de&hellip;",
-            "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://douds-factory.fr/media/posts/1/gallery/dos.jpg\" data-size=\"5184x3456\">\n        <img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/1/gallery/dos-thumbnail.jpg\" height=\"512\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://douds-factory.fr/media/posts/1/gallery/ferme.jpg\" data-size=\"5184x3456\">\n        <img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/1/gallery/ferme-thumbnail.jpg\" height=\"512\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://douds-factory.fr/media/posts/1/gallery/ouvert.jpg\" data-size=\"5184x3456\">\n        <img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/1/gallery/ouvert-thumbnail.jpg\" height=\"512\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n<hr class=\"separator separator--dots\" />\n\n    <blockquote class=\"blockquote\">\n      Les chiffres : à force de les additionner, de les soustraire, de les multiplier et de les diviser, on peut leur faire dire absolument n'importe quoi.<br><br>Alain Rémond<br>\n    </blockquote>\n\n  <p>\n    Le 123 est une déclinaison du modèle Le Pointu en pompe arrière. Ils partagent la même lame clip point, purement inspirée du Bowie.\n  </p>\n\n  <p>\n    Pourquoi le 123 me direz-vous ? Observez bien ses rivets.\n  </p>\n\n  <p>\n    Mécanique : pompe arrière\n  </p>\n\n  <p>\n    Dimensions : 130mm fermé et 235mm ouvert\n  </p>\n\n  <p>\n    Matériaux :&nbsp;lame et ressort acier XC75 (effet stonewash) - platines acier inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium\n  </p>\n\n  <p>\n    Prix : <strong>280€</strong>\n  </p>\n\n  <p>\n    Pour toute commande ou demande particulière veuillez me <a href=\"https://douds-factory.fr/contact.html\"><strong>contacter</strong></a>.\n  </p>",
-            "image": "https://douds-factory.fr/media/posts/1/ouvert-2.jpg",
-            "author": {
-                "name": "Sylvain"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-07-16T19:03:53+02:00",
-            "date_modified": "2023-07-27T13:36:08+02:00"
         }
     ]
 }

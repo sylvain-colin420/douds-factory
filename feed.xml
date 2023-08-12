@@ -3,12 +3,54 @@
     <title>Doud&#x27;s Factory</title>
     <link href="https://douds-factory.fr/feed.xml" rel="self" />
     <link href="https://douds-factory.fr" />
-    <updated>2023-08-05T15:45:20+02:00</updated>
+    <updated>2023-08-12T13:34:53+02:00</updated>
     <author>
         <name>Sylvain</name>
     </author>
     <id>https://douds-factory.fr</id>
 
+    <entry>
+        <title>Le 123</title>
+        <author>
+            <name>Sylvain</name>
+        </author>
+        <link href="https://douds-factory.fr/le-123.html"/>
+        <id>https://douds-factory.fr/le-123.html</id>
+        <media:content url="https://douds-factory.fr/media/posts/9/ouvert.jpg" medium="image" />
+
+        <updated>2023-08-12T13:34:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://douds-factory.fr/media/posts/9/ouvert.jpg" alt="" />
+                    Les chiffres : à force de les additionner, de les soustraire, de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://douds-factory.fr/media/posts/9/ouvert.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="3">
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/9/gallery/ouvert.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/9/gallery/ouvert-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/9/gallery/dos.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/9/gallery/dos-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/9/gallery/ferme.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/9/gallery/ferme-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/TG0dO7xCiIc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<hr>
+<blockquote>
+<p>Les chiffres : à force de les additionner, de les soustraire, de les multiplier et de les diviser, on peut leur faire dire absolument n'importe quoi.<br><br>Alain Rémond</p>
+</blockquote>
+<p>Le 123 est une déclinaison du modèle Le Pointu en pompe arrière. Ils partagent la même lame clip point, purement inspirée du Bowie.</p>
+<p>Pourquoi le 123 me direz-vous ? Observez bien ses rivets.</p>
+<p>Mécanique : pompe arrière</p>
+<p>Dimensions : 130mm fermé et 235mm ouvert</p>
+<p>Matériaux : lame et ressort acier XC75 (effet stonewash) - platines acier inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium</p>
+<p>Prix : <strong>280€</strong></p>
+<p>Pour toute commande ou demande particulière veuillez me <a href="https://douds-factory.fr/contact.html"><strong>contacter</strong></a>.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pour les curieux</title>
         <author>
@@ -18,7 +60,7 @@
         <id>https://douds-factory.fr/pour-les-curieux.html</id>
         <media:content url="https://douds-factory.fr/media/posts/7/34219577989e4dddadbd3fb0a7d5829b.jpeg" medium="image" />
 
-        <updated>2023-08-05T15:45:20+02:00</updated>
+        <updated>2023-08-05T15:47:10+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://douds-factory.fr/media/posts/7/34219577989e4dddadbd3fb0a7d5829b.jpeg" alt="" />
@@ -49,7 +91,7 @@
         <id>https://douds-factory.fr/le-bowie.html</id>
         <media:content url="https://douds-factory.fr/media/posts/6/IMG_9839-2.jpg" medium="image" />
 
-        <updated>2023-07-27T13:36:42+02:00</updated>
+        <updated>2023-08-08T16:30:59+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://douds-factory.fr/media/posts/6/IMG_9839-2.jpg" alt="" />
@@ -64,6 +106,7 @@
 <figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/6/gallery/IMG_9837.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/6/gallery/IMG_9837-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/6/gallery/IMG_9839.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/6/gallery/IMG_9839-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/cmTOrYxI4PY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <hr>
 <blockquote>
 <p>Trop tranchant ne coupe pas, trop pointu ne perce pas.</p>
@@ -209,82 +252,6 @@
 <p>Du temps est passé et j'ai acquis les compétences nécessaires à la fabrication d'un couteau, mais surtout de la confiance dans mes réalisations et en mon propre style.</p>
 <p>C'est donc au début de l'année 2023 que je me suis officiellement lancé en intégrant la coopérative <a href="https://ariac-34.com" target="_blank" rel="noopener noreferrer"><strong>ARIAC</strong></a>. C'est ainsi que <strong>Doud's Factory</strong> est née.</p>
 <p class="align-right"><em>Sylvain Colin / Doud's Factory</em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Le 123</title>
-        <author>
-            <name>Sylvain</name>
-        </author>
-        <link href="https://douds-factory.fr/123.html"/>
-        <id>https://douds-factory.fr/123.html</id>
-        <media:content url="https://douds-factory.fr/media/posts/1/ouvert-2.jpg" medium="image" />
-
-        <updated>2023-07-27T13:36:08+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://douds-factory.fr/media/posts/1/ouvert-2.jpg" alt="" />
-                    Les chiffres : à force de les additionner, de les soustraire, de&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://douds-factory.fr/media/posts/1/ouvert-2.jpg" class="type:primaryImage" alt="" /></p>
-                
-  <div  class="gallery-wrapper gallery-wrapper--wide">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://douds-factory.fr/media/posts/1/gallery/dos.jpg" data-size="5184x3456">
-        <img loading="lazy" src="https://douds-factory.fr/media/posts/1/gallery/dos-thumbnail.jpg" height="512" width="768" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://douds-factory.fr/media/posts/1/gallery/ferme.jpg" data-size="5184x3456">
-        <img loading="lazy" src="https://douds-factory.fr/media/posts/1/gallery/ferme-thumbnail.jpg" height="512" width="768" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://douds-factory.fr/media/posts/1/gallery/ouvert.jpg" data-size="5184x3456">
-        <img loading="lazy" src="https://douds-factory.fr/media/posts/1/gallery/ouvert-thumbnail.jpg" height="512" width="768" alt="" >
-      </a>
-      
-    </figure>
-    </div>
-  </div>
-<hr class="separator separator--dots" />
-
-    <blockquote class="blockquote">
-      Les chiffres : à force de les additionner, de les soustraire, de les multiplier et de les diviser, on peut leur faire dire absolument n'importe quoi.<br><br>Alain Rémond<br>
-    </blockquote>
-
-  <p>
-    Le 123 est une déclinaison du modèle Le Pointu en pompe arrière. Ils partagent la même lame clip point, purement inspirée du Bowie.
-  </p>
-
-  <p>
-    Pourquoi le 123 me direz-vous ? Observez bien ses rivets.
-  </p>
-
-  <p>
-    Mécanique : pompe arrière
-  </p>
-
-  <p>
-    Dimensions : 130mm fermé et 235mm ouvert
-  </p>
-
-  <p>
-    Matériaux :&nbsp;lame et ressort acier XC75 (effet stonewash) - platines acier inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium
-  </p>
-
-  <p>
-    Prix : <strong>280€</strong>
-  </p>
-
-  <p>
-    Pour toute commande ou demande particulière veuillez me <a href="https://douds-factory.fr/contact.html"><strong>contacter</strong></a>.
-  </p>
             ]]>
         </content>
     </entry>
