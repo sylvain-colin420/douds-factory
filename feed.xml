@@ -3,12 +3,68 @@
     <title>Doud&#x27;s Factory</title>
     <link href="https://douds-factory.fr/feed.xml" rel="self" />
     <link href="https://douds-factory.fr" />
-    <updated>2024-11-08T22:04:13+01:00</updated>
+    <updated>2024-11-17T18:02:57+01:00</updated>
     <author>
         <name>Sylvain</name>
     </author>
     <id>https://douds-factory.fr</id>
 
+    <entry>
+        <title>Fabriquer son four de trempe</title>
+        <author>
+            <name>Sylvain</name>
+        </author>
+        <link href="https://douds-factory.fr/fabriquer-son-four-de-trempe.html"/>
+        <id>https://douds-factory.fr/fabriquer-son-four-de-trempe.html</id>
+
+        <updated>2024-11-17T17:17:44+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Afin d'effectuer de la manière la plus précise vos traitements thermiques, indispensables&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-left">Afin d'effectuer de la manière la plus précise vos traitements thermiques, indispensables à la qualité structurelle de vos lames et éléments mécaniques, je vous conseille vivement d'avoir dans votre atelier un four de trempe.</p>
+<p class="align-left">Etant un outil relativement cher, il est possible de se le fabriquer à moindre coût. Dans cet article, je vais vous expliquer comment construire la structure du four, faire son isolation thermique, ainsi que les branchements nécessaire et sa programmation.</p>
+<p>Ne vous inquiétez pas ... il n'y a rien de bien compliquer.    </p>
+<p>Dans un premier temps il va vous falloir :</p>
+<ul>
+<li><strong>Définir les besoins :</strong> Identifier la taille maximale des lames que le four devra traiter, la plage de températures (généralement entre 800°C et 1200°C), et le type d’alimentation.</li>
+<li><strong>Concevoir un plan :</strong> Dessiner un schéma ou un plan détaillé du four, incluant les dimensions internes, l’isolation, le système de chauffage, et le boîtier extérieur.</li>
+<li><strong>Choisir les matériaux :</strong> Sélectionner des matériaux résistants à la chaleur (briques réfractaires, laine céramique) et des composants pour le chauffage (résistances électriques en kanthal ou nichrome).</li>
+</ul>
+<p>Personnelement je suis parti sur un four avec une contenance de 4L (la contenance déterminant les résistances à installer) : la chambre mesure 10*10*40cm. Cela me permet de tremper autant des petites pièces de couteaux pliants, que des plus grandes telles que des couteaux de cuisine d'une trentaine de centimêtres. </p>
+<p>Fabrication de la chambre et de la porte avec ciment réfractaire H.T --&gt; saignée et trous pour les résistances et thermocouple --&gt; fabrication de la structure en acier + isolation et peinture H.T --&gt; fabrication coffrage électrique --&gt; branchements (schéma) --&gt; programmation boitier de commande</p>
+<p><strong>Assemblage de l’isolation thermique :</strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Utiliser des briques réfractaires pour le cœur de la chambre.</li>
+<li>Compléter avec de la laine céramique pour l’isolation secondaire. Cela aide à conserver la chaleur et réduit la consommation d’énergie.</li>
+<li>Sceller les joints avec un mortier réfractaire pour éviter les fuites de chaleur.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong>Choisir et installer les résistances :</strong>
+<ul>
+<li>Enrouler du fil de Kanthal en spirale.</li>
+<li>Installer les résistances sur les parois intérieures de la chambre avec des aggraffes en Kanthal.</li>
+<li>Vérifier la répartition homogène des résistances pour un chauffage uniforme.</li>
+</ul>
+</li>
+<li><strong>Connecter le système électrique :</strong>
+<ul>
+<li>Prévoir un thermocouple et un contrôleur pour connaître et réguler la température interne, ainsi qu'un relais et un interrupteur ou contacteur pour couper le jus lors de l'ouverture de la chambre.</li>
+<li>Assurer un bon câblage électrique avec des fils résistants à la chaleur et des dominos céramiques.</li>
+<li>Configurer le régulateur pour qu’il puisse monter progressivement en température et maintenir une valeur stable.</li>
+</ul>
+</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Où se fournir</title>
         <author>
@@ -155,8 +211,8 @@
         <author>
             <name>Sylvain</name>
         </author>
-        <link href="https://douds-factory.fr/le-bowie.html"/>
-        <id>https://douds-factory.fr/le-bowie.html</id>
+        <link href="https://douds-factory.fr/le-pointu.html"/>
+        <id>https://douds-factory.fr/le-pointu.html</id>
         <media:content url="https://douds-factory.fr/media/posts/6/pointu-cade-ouvert.jpg" medium="image" />
 
         <updated>2023-07-17T11:01:12+02:00</updated>

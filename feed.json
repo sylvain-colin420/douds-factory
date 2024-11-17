@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://douds-factory.fr/fabriquer-son-four-de-trempe.html",
+            "url": "https://douds-factory.fr/fabriquer-son-four-de-trempe.html",
+            "title": "Fabriquer son four de trempe",
+            "summary": "Afin d'effectuer de la manière la plus précise vos traitements thermiques, indispensables&hellip;",
+            "content_html": "<p class=\"align-left\">Afin d'effectuer de la manière la plus précise vos traitements thermiques, indispensables à la qualité structurelle de vos lames et éléments mécaniques, je vous conseille vivement d'avoir dans votre atelier un four de trempe.</p>\n<p class=\"align-left\">Etant un outil relativement cher, il est possible de se le fabriquer à moindre coût. Dans cet article, je vais vous expliquer comment construire la structure du four, faire son isolation thermique, ainsi que les branchements nécessaire et sa programmation.</p>\n<p>Ne vous inquiétez pas ... il n'y a rien de bien compliquer.    </p>\n<p>Dans un premier temps il va vous falloir :</p>\n<ul>\n<li><strong>Définir les besoins :</strong> Identifier la taille maximale des lames que le four devra traiter, la plage de températures (généralement entre 800°C et 1200°C), et le type d’alimentation.</li>\n<li><strong>Concevoir un plan :</strong> Dessiner un schéma ou un plan détaillé du four, incluant les dimensions internes, l’isolation, le système de chauffage, et le boîtier extérieur.</li>\n<li><strong>Choisir les matériaux :</strong> Sélectionner des matériaux résistants à la chaleur (briques réfractaires, laine céramique) et des composants pour le chauffage (résistances électriques en kanthal ou nichrome).</li>\n</ul>\n<p>Personnelement je suis parti sur un four avec une contenance de 4L (la contenance déterminant les résistances à installer) : la chambre mesure 10*10*40cm. Cela me permet de tremper autant des petites pièces de couteaux pliants, que des plus grandes telles que des couteaux de cuisine d'une trentaine de centimêtres. </p>\n<p>Fabrication de la chambre et de la porte avec ciment réfractaire H.T --&gt; saignée et trous pour les résistances et thermocouple --&gt; fabrication de la structure en acier + isolation et peinture H.T --&gt; fabrication coffrage électrique --&gt; branchements (schéma) --&gt; programmation boitier de commande</p>\n<p><strong>Assemblage de l’isolation thermique :</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>Utiliser des briques réfractaires pour le cœur de la chambre.</li>\n<li>Compléter avec de la laine céramique pour l’isolation secondaire. Cela aide à conserver la chaleur et réduit la consommation d’énergie.</li>\n<li>Sceller les joints avec un mortier réfractaire pour éviter les fuites de chaleur.</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li><strong>Choisir et installer les résistances :</strong>\n<ul>\n<li>Enrouler du fil de Kanthal en spirale.</li>\n<li>Installer les résistances sur les parois intérieures de la chambre avec des aggraffes en Kanthal.</li>\n<li>Vérifier la répartition homogène des résistances pour un chauffage uniforme.</li>\n</ul>\n</li>\n<li><strong>Connecter le système électrique :</strong>\n<ul>\n<li>Prévoir un thermocouple et un contrôleur pour connaître et réguler la température interne, ainsi qu'un relais et un interrupteur ou contacteur pour couper le jus lors de l'ouverture de la chambre.</li>\n<li>Assurer un bon câblage électrique avec des fils résistants à la chaleur et des dominos céramiques.</li>\n<li>Configurer le régulateur pour qu’il puisse monter progressivement en température et maintenir une valeur stable.</li>\n</ul>\n</li>\n</ul>",
+            "author": {
+                "name": "Sylvain"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-17T17:17:44+01:00",
+            "date_modified": "2024-11-17T18:02:00+01:00"
+        },
+        {
             "id": "https://douds-factory.fr/ou-se-fournir.html",
             "url": "https://douds-factory.fr/ou-se-fournir.html",
             "title": "Où se fournir",
@@ -71,8 +85,8 @@
             "date_modified": "2023-08-12T13:41:33+02:00"
         },
         {
-            "id": "https://douds-factory.fr/le-bowie.html",
-            "url": "https://douds-factory.fr/le-bowie.html",
+            "id": "https://douds-factory.fr/le-pointu.html",
+            "url": "https://douds-factory.fr/le-pointu.html",
             "title": "Le Pointu",
             "summary": "Trop tranchant ne coupe pas, trop pointu ne perce pas. Proverbe français&hellip;",
             "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Ajouter des images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://douds-factory.fr/media/posts/6/gallery/pointu-cade-ouvert.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/6/gallery/pointu-cade-ouvert-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://douds-factory.fr/media/posts/6/gallery/pointu-cade-ferme.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/6/gallery/pointu-cade-ferme-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://douds-factory.fr/media/posts/6/gallery/details-guillochage.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://douds-factory.fr/media/posts/6/gallery/details-guillochage-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ViCe8M0Sv30\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<hr>\n<blockquote>\n<p>Trop tranchant ne coupe pas, trop pointu ne perce pas.</p>\n<p>Proverbe français</p>\n</blockquote>\n<p>Le Pointu m'a été très fortement inspiré par le célèbre Bowie. Ce couteau trouvant ses origines au début du moyen âge, était utilisé à la fois comme arme de combat et comme outil de tous les jours par les peuples germaniques, celtes et scandinaves. C'est le colonel James Bowie, pionnier et soldat américain ayant joué un grand rôle au XIX°s dans la révolution texane qui, par son utilisation intensive, l'élevera en tant que légende et le démocratisa.</p>\n<p>Mécanique : cran carré</p>\n<p>Dimensions : 230 mm ouvert pour 105 mm de tranchant</p>\n<p>Matériaux : lame et ressort acier XC75 (effet stonewash) - platines acier inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium - stop pin laiton</p>\n<p>Prix : <strong>220€</strong></p>\n<p>Pour toute commande ou demande particulière veuillez me <strong><a href=\"https://douds-factory.fr/contact.html\">contacter</a></strong>.</p>\n<p> </p>",
@@ -83,7 +97,7 @@
             "tags": [
             ],
             "date_published": "2023-07-17T11:01:12+02:00",
-            "date_modified": "2024-11-08T22:04:13+01:00"
+            "date_modified": "2024-11-17T18:02:57+01:00"
         },
         {
             "id": "https://douds-factory.fr/contact.html",
