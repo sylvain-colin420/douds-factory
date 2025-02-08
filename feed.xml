@@ -3,12 +3,53 @@
     <title>Doud&#x27;s Factory</title>
     <link href="https://douds-factory.fr/feed.xml" rel="self" />
     <link href="https://douds-factory.fr" />
-    <updated>2025-02-08T12:53:11+01:00</updated>
+    <updated>2025-02-08T20:14:21+01:00</updated>
     <author>
         <name>Sylvain</name>
     </author>
     <id>https://douds-factory.fr</id>
 
+    <entry>
+        <title>La Comète</title>
+        <author>
+            <name>Sylvain</name>
+        </author>
+        <link href="https://douds-factory.fr/la-comete.html"/>
+        <id>https://douds-factory.fr/la-comete.html</id>
+        <media:content url="https://douds-factory.fr/media/posts/15/IMG_0577.jpg" medium="image" />
+
+        <updated>2025-02-08T17:15:59+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://douds-factory.fr/media/posts/15/IMG_0577.jpg" alt="" />
+                    Le réel, c'est ce qui nous résiste et nargue nos plans sur&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://douds-factory.fr/media/posts/15/IMG_0577.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="3">
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/15//gallery/IMG_0577.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/15//gallery/IMG_0577-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/15//gallery/IMG_0578.jpg" data-size="5078x3385"><img loading="lazy" src="https://douds-factory.fr/media/posts/15//gallery/IMG_0578-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/15//gallery/IMG_0580-2.jpg" data-size="3839x2559"><img loading="lazy" src="https://douds-factory.fr/media/posts/15//gallery/IMG_0580-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/15//gallery/IMG_0635.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/15//gallery/IMG_0635-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/15//gallery/IMG_0641.jpg" data-size="5184x3456"><img loading="lazy" src="https://douds-factory.fr/media/posts/15//gallery/IMG_0641-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/15//gallery/IMG_0632.jpg" data-size="4279x2853"><img loading="lazy" src="https://douds-factory.fr/media/posts/15//gallery/IMG_0632-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+<blockquote>
+<p>Le réel, c'est ce qui nous résiste et nargue nos plans sur la comète.</p>
+<p>Régis Debray</p>
+</blockquote>
+<p>La Comète est un couteau traditionnel à friction, appelé aussi 2 clous : 1 clous pour le pivot de la lame et un 2nd pour stopper le talon de cette dernière en position ouverte. Sa simplicité et sa robustesse en fond un couteau fiable et un bon compagnon de casse croûte lors de vos sorties randonnée.</p>
+<p>Mécanique : friction - 2 clous</p>
+<p>Dimensions : 155mm fermé - 210mm ouvert</p>
+<p>Matériaux : lame acier XC75 - plaquettes au choix selon arrivage (en sus selon essence) - fausse pièce au choix selon arrivage - rondelles de friction bronze béryllium - rosettes inox</p>
+<p>Prix : <strong>80€</strong> (prix de base*)</p>
+<p>Pour toute commande ou demande particulière veuillez me <a href="file:///C:\Users\sylv1\Documents\Publii\sites\douds-factory\preview/contact.html"><strong>contacter</strong></a>.</p>
+<p>*le prix peut changer en fonction des matériaux et finitions</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Le Pacifiste</title>
         <author>
@@ -81,7 +122,7 @@
 <p>Personnelement, je suis parti sur un four avec une contenance de 4L (la contenance déterminant les résistances à installer) : la chambre mesure 10*10*40cm. Cela me permet de tremper autant des petites pièces de couteaux pliants, que des plus grandes telles que des couteaux de cuisine d'une trentaine de centimêtres. Utilisant de l'acier carbone ainsi que de l'acier inox, j'ai besoin que mon four puisse aller de 800 à 1100°C.</p>
 <p><strong>. Concevoir un plan </strong></p>
 <p>--&gt; schéma électrique</p>
-<p>Voici le schéma électrique à suivre afin de ne pas avoir de souci de branchement. Pensez à prendre de bonnes longueures pour ne pas être embété, quitte à couper le surplus, et une section de câble de 4mm car pas mal de courant circule dans cette installation. Une fois les branchements faits, il va falloir programmé le REX C100. Pour cette partie je n'ai rien inventé, j'ai tout bêtement suivi un tuto youtube. J'ai bien essayé de comprendre mais très franchement bon courage à vous si cela vous prends l'envie d'essayer.  </p>
+<p>Voici le schéma électrique à suivre afin de ne pas avoir de souci de branchement. Pensez à prendre de bonnes longueures pour ne pas être embété, quitte à couper le surplus, et une section de câble de 4mm car pas mal de courant circule dans cette installation. Une fois les branchements faits, il va falloir programmé le REX C100. Pour cette partie je n'ai rien inventé, j'ai tout bêtement suivi un tuto youtube. J'ai bien essayé de comprendre mais très franchement bon courage à vous si cela vous prends l'envie d'essayer. Plus loin dans l'article je détaille la procédure de programmation de ce REX C100.</p>
 <p>--&gt; plan fabrication four </p>
 <p>Fabrication de la chambre et de la porte avec ciment réfractaire H.T --&gt; saignée et trous pour les résistances et thermocouple --&gt; fabrication de la structure en acier + isolation et peinture H.T --&gt; fabrication coffrage électrique --&gt; branchements (schéma) --&gt; programmation boitier de commande</p>
 <p><strong>Assemblage de l’isolation thermique :</strong></p>
