@@ -3,12 +3,52 @@
     <title>Doud&#x27;s Factory</title>
     <link href="https://douds-factory.fr/feed.xml" rel="self" />
     <link href="https://douds-factory.fr" />
-    <updated>2024-11-17T18:02:57+01:00</updated>
+    <updated>2025-02-08T12:46:58+01:00</updated>
     <author>
         <name>Sylvain</name>
     </author>
     <id>https://douds-factory.fr</id>
 
+    <entry>
+        <title>Le Pacifiste</title>
+        <author>
+            <name>Sylvain</name>
+        </author>
+        <link href="https://douds-factory.fr/le-pacifiste.html"/>
+        <id>https://douds-factory.fr/le-pacifiste.html</id>
+        <media:content url="https://douds-factory.fr/media/posts/14/ouvert.jpg" medium="image" />
+
+        <updated>2025-02-08T11:26:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://douds-factory.fr/media/posts/14/ouvert.jpg" alt="" />
+                    La paix est rarement refusée aux pacifistes. Johann Friedrich von Schiller Le&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://douds-factory.fr/media/posts/14/ouvert.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Ajouter des images" data-columns="3">
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/14/gallery/ouvert.jpg" data-size="5125x3417"><img loading="lazy" src="https://douds-factory.fr/media/posts/14/gallery/ouvert-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://douds-factory.fr/media/posts/14/gallery/ferme.jpg" data-size="5102x3401"><img loading="lazy" src="https://douds-factory.fr/media/posts/14/gallery/ferme-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+<hr>
+<blockquote>
+<p>La paix est rarement refusée aux pacifistes.</p>
+<p>Johann Friedrich von Schiller</p>
+</blockquote>
+<p>Le Pacifiste est inspiré des lames style sheepfoot, dont l'origine remonte aux marins pêcheurs anglais qui s'en servaient afin d'éviter les blessures trop profondes lors de leur travail de tous les jours, mais surtout de minimiser le risques de morts lors de mutinerie. Les bergers en étaient aussi très friands pour entretenir les sabots de leurs moutons sans risquer de s'auto-mutiler ou de blesser leurs bêtes. En effet avec son profil, la fausse pointe de ce couteau minimise le risque de blessure.</p>
+<p>Le Pacifiste est un couteau qui vous veut du bien ! </p>
+<p>Mécanique : cran carré</p>
+<p>Dimensions : 130mm fermé et 225mm ouvert</p>
+<p>Matériaux : lame acier inox 14c28n (effet stonewash) - ressort acier inox Z40 - platines acier inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium - rosettes inoxidables</p>
+<p>Prix : <strong>280€ </strong>(prix de base*)</p>
+<p>Pour toute commande ou demande particulière veuillez me <a href="https://douds-factory.fr/contact.html"><strong>contacter</strong></a>.</p>
+<p>*le prix peut changer en fonction des matériaux et finitions</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fabriquer son four de trempe</title>
         <author>
@@ -16,17 +56,20 @@
         </author>
         <link href="https://douds-factory.fr/fabriquer-son-four-de-trempe.html"/>
         <id>https://douds-factory.fr/fabriquer-son-four-de-trempe.html</id>
+        <media:content url="https://douds-factory.fr/media/posts/13/9735.jpg" medium="image" />
 
         <updated>2024-11-17T17:17:44+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://douds-factory.fr/media/posts/13/9735.jpg" alt="" />
                     Afin d'effectuer de la manière la plus précise vos traitements thermiques, indispensables&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-left">Afin d'effectuer de la manière la plus précise vos traitements thermiques, indispensables à la qualité structurelle de vos lames et éléments mécaniques, je vous conseille vivement d'avoir dans votre atelier un four de trempe.</p>
-<p class="align-left">Etant un outil relativement cher, il est possible de se le fabriquer à moindre coût. Dans cet article, je vais vous expliquer comment construire la structure du four, faire son isolation thermique, ainsi que les branchements nécessaire et sa programmation.</p>
+                    <p><img src="https://douds-factory.fr/media/posts/13/9735.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-left">Afin d'effectuer de la manière la plus précise vos traitements thermiques, indispensables à la qualité structurelle de vos lames et éléments mécaniques, je vous conseille vivement d'avoir dans votre atelier un four de trempe. Cela vous permettra également de travailler sur des aciers inox qui ont besoins d'un temps de maintient et des températures de trempe très précisent.</p>
+<p>Etant un outil relativement cher, il est possible de se le fabriquer à moindre coût. Dans cet article, je vais vous expliquer comment construire la structure du four, faire son isolation thermique, ainsi que les branchements nécessaire et sa programmation.</p>
 <p>Ne vous inquiétez pas ... il n'y a rien de bien compliquer.    </p>
 <p>Dans un premier temps il va vous falloir :</p>
 <ul>
@@ -34,7 +77,12 @@
 <li><strong>Concevoir un plan :</strong> Dessiner un schéma ou un plan détaillé du four, incluant les dimensions internes, l’isolation, le système de chauffage, et le boîtier extérieur.</li>
 <li><strong>Choisir les matériaux :</strong> Sélectionner des matériaux résistants à la chaleur (briques réfractaires, laine céramique) et des composants pour le chauffage (résistances électriques en kanthal ou nichrome).</li>
 </ul>
-<p>Personnelement je suis parti sur un four avec une contenance de 4L (la contenance déterminant les résistances à installer) : la chambre mesure 10*10*40cm. Cela me permet de tremper autant des petites pièces de couteaux pliants, que des plus grandes telles que des couteaux de cuisine d'une trentaine de centimêtres. </p>
+<p><strong>. Définir les besoins</strong></p>
+<p>Personnelement, je suis parti sur un four avec une contenance de 4L (la contenance déterminant les résistances à installer) : la chambre mesure 10*10*40cm. Cela me permet de tremper autant des petites pièces de couteaux pliants, que des plus grandes telles que des couteaux de cuisine d'une trentaine de centimêtres. Utilisant de l'acier carbone ainsi que de l'acier inox, j'ai besoin que mon four puisse aller de 800 à 1100°C.</p>
+<p><strong>. Concevoir un plan </strong></p>
+<p>--&gt; schéma électrique</p>
+<p>Voici le schéma électrique à suivre afin de ne pas avoir de souci de branchement. Pensez à prendre de bonnes longueures pour ne pas être embété, quitte à couper le surplus, et une section de câble de 4mm car pas mal de courant circule dans cette installation. Une fois les branchements faits, il va falloir programmé le REX C100. Pour cette partie je n'ai rien inventé, j'ai tout bêtement suivi un tuto youtube. J'ai bien essayé de comprendre mais très franchement bon courage à vous si cela vous prends l'envie d'essayer.  </p>
+<p>--&gt; plan fabrication four </p>
 <p>Fabrication de la chambre et de la porte avec ciment réfractaire H.T --&gt; saignée et trous pour les résistances et thermocouple --&gt; fabrication de la structure en acier + isolation et peinture H.T --&gt; fabrication coffrage électrique --&gt; branchements (schéma) --&gt; programmation boitier de commande</p>
 <p><strong>Assemblage de l’isolation thermique :</strong></p>
 <ul>
@@ -46,22 +94,29 @@
 </ul>
 </li>
 </ul>
+<p><strong>Choisir et installer les résistances :</strong></p>
 <ul>
-<li><strong>Choisir et installer les résistances :</strong>
+<li style="list-style-type: none;">
 <ul>
 <li>Enrouler du fil de Kanthal en spirale.</li>
 <li>Installer les résistances sur les parois intérieures de la chambre avec des aggraffes en Kanthal.</li>
 <li>Vérifier la répartition homogène des résistances pour un chauffage uniforme.</li>
 </ul>
 </li>
-<li><strong>Connecter le système électrique :</strong>
+</ul>
+<p><strong>Connecter le système électrique :</strong></p>
 <ul>
-<li>Prévoir un thermocouple et un contrôleur pour connaître et réguler la température interne, ainsi qu'un relais et un interrupteur ou contacteur pour couper le jus lors de l'ouverture de la chambre.</li>
+<li style="list-style-type: none;">
+<ul>
+<li>Prévoir un thermocouple et un contrôleur relier à un relais afin de connaître et réguler la température interne.</li>
+<li>Monter un interrupteur ou un contacteur pour couper le jus lors de l'ouverture de la chambre.</li>
 <li>Assurer un bon câblage électrique avec des fils résistants à la chaleur et des dominos céramiques.</li>
 <li>Configurer le régulateur pour qu’il puisse monter progressivement en température et maintenir une valeur stable.</li>
 </ul>
 </li>
 </ul>
+<p><strong>. Choisir les matériaux</strong> </p>
+<figure class="post__image"><img loading="lazy"  src="https://douds-factory.fr/media/posts/13/branchement-electrique-four-de-trempe-1.jpg" alt="" width="2480" height="3508" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://douds-factory.fr/media/posts/13/responsive/branchement-electrique-four-de-trempe-1-xs.jpg 300w ,https://douds-factory.fr/media/posts/13/responsive/branchement-electrique-four-de-trempe-1-sm.jpg 480w ,https://douds-factory.fr/media/posts/13/responsive/branchement-electrique-four-de-trempe-1-md.jpg 768w ,https://douds-factory.fr/media/posts/13/responsive/branchement-electrique-four-de-trempe-1-lg.jpg 1024w"></figure>
             ]]>
         </content>
     </entry>
@@ -198,8 +253,9 @@
 <p>Mécanique : pompe arrière</p>
 <p>Dimensions : 130mm fermé et 235mm ouvert</p>
 <p>Matériaux : lame et ressort acier XC75 (effet stonewash) - platines acier inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium</p>
-<p>Prix : <strong>280€</strong></p>
+<p>Prix : <strong>280€ </strong>(prix de base*)</p>
 <p>Pour toute commande ou demande particulière veuillez me <a href="https://douds-factory.fr/contact.html"><strong>contacter</strong></a>.</p>
+<p>*le prix peut changer en fonction des matériaux et finitions</p>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -240,35 +296,10 @@
 <p>Mécanique : cran carré</p>
 <p>Dimensions : 230 mm ouvert pour 105 mm de tranchant</p>
 <p>Matériaux : lame et ressort acier XC75 (effet stonewash) - platines acier inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium - stop pin laiton</p>
-<p>Prix : <strong>220€</strong></p>
+<p>Prix : <strong>220€ </strong>(prix de base*)</p>
 <p>Pour toute commande ou demande particulière veuillez me <strong><a href="https://douds-factory.fr/contact.html">contacter</a></strong>.</p>
+<p>*le prix peut changer en fonction des matériaux et finitions</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact</title>
-        <author>
-            <name>Sylvain</name>
-        </author>
-        <link href="https://douds-factory.fr/contact.html"/>
-        <id>https://douds-factory.fr/contact.html</id>
-        <media:content url="https://douds-factory.fr/media/posts/5/page-contact-2.jpg" medium="image" />
-
-        <updated>2023-07-17T10:59:15+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://douds-factory.fr/media/posts/5/page-contact-2.jpg" alt="" />
-                    Email : douds.factory@gmail.com Portable : 0611515518 Atelier : 3E Chemin de Saint&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://douds-factory.fr/media/posts/5/page-contact-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Email : <a href="mailto:douds.factory@gmail.com">douds.factory@gmail.com</a></p>
-<p>Portable : 0611515518</p>
-<p>Atelier : 3E Chemin de Saint Géniès - 34150 La Boissière - Mas d'Alhen</p>
-<p>Horaire : du lundi au vendredi de 9h30 à 18h</p>
             ]]>
         </content>
     </entry>
@@ -308,38 +339,10 @@
 <p>Mécanique : cran plat</p>
 <p>Dimensions : 115mm fermé et 210mm ouvert</p>
 <p class="align-left">Matériaux : lame et ressort acier XC75 - platines laiton ou inox Z8C17 - intercalaires fibres vulcanisées - plaquettes au choix selon arrivage (en sus selon essence) - rondelles de friction bronze béryllium<br><br></p>
-<p>Prix : <strong>140€</strong></p>
+<p>Prix : <strong>140€ </strong>(prix de base*)</p>
 <p>Pour toute commande ou demande particulière veuillez me <a href="https://douds-factory.fr/contact.html"><strong>contacter</strong></a>.</p>
+<p>*le prix peut changer en fonction des matériaux et finitions</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Doud&#x27;s Factory</title>
-        <author>
-            <name>Sylvain</name>
-        </author>
-        <link href="https://douds-factory.fr/douds-factory-2.html"/>
-        <id>https://douds-factory.fr/douds-factory-2.html</id>
-        <media:content url="https://douds-factory.fr/media/posts/2/presentation.jpg" medium="image" />
-
-        <updated>2023-07-16T19:05:40+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://douds-factory.fr/media/posts/2/presentation.jpg" alt="" />
-                    Doud's Factory est né de mon amour pour les lames, que mon&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://douds-factory.fr/media/posts/2/presentation.jpg" class="type:primaryImage" alt="" /></p>
-                <p><strong>Doud's Factory</strong> est né de mon amour pour les lames, que mon grand père paternel m'a transmis étant tout petit. D'aussi loin que je m'en souvienne, j'ai toujours été attiré par les couteaux : ces objets aux lignes épurées, à la fois douces et agressives.</p>
-<p>Au cours de mes études en Design, réalisées aux universités de Nîmes et Bordeaux, j'ai acquis des compétences en dessin, conception et prototypage. Suite à une longue période de doute et d'errance à ne savoir quoi faire après, j'ai eu l'opportunité d'aborder la forge d'un couteau avec un ami voisin. Cela m'a énormément plu et j'ai donc cherché à en savoir davantage. J'ai trouvé un stage à l'école de forge <strong><a href="https://www.ecoledeforge.fr" target="_blank" rel="noopener noreferrer">Fer à Modeler</a></strong>. Située à Méjannes-le-Clap (30), cette école m'a permis de découvrir l'acier sous ses différentes formes. C'est alors que mon cerveau a fait tilt ! J'en suis parti avec les yeux qui pétillaient de mille feux et une forte envie de me lancer en coutellerie et ainsi allier mes études à l'amour que je porte aux couteaux.</p>
-<p>Du temps est passé et j'ai acquis les compétences nécessaires à la fabrication d'un couteau, mais surtout de la confiance dans mes réalisations et en mon propre style.</p>
-<p>C'est donc au début de l'année 2023 que je me suis officiellement lancé en intégrant la coopérative <a href="https://ariac-34.com" target="_blank" rel="noopener noreferrer"><strong>ARIAC</strong></a>.</p>
-<p><strong>Pourquoi Doud's Factory ?</strong></p>
-<p>L'idée m'est venue de construire l'image de ma marque autour de mes surnoms : " Doudi " et " Cayenne ". Doud est l'abrévation de " Doudi ", un surnom que ma soeur m'a donné étant gamin et qui depuis est resté. Et "Cayenne" en référence au piment de cayenne que mon oncle Pantxo affectionne tout particulièrement. Voilà pourquoi vous pouvez trouver sur mes lames un poinçon, avec en son centre un piment. </p>
-<p class="align-right"><em>Sylvain Colin / Doud's Factory</em></p>
             ]]>
         </content>
     </entry>
